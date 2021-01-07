@@ -59,6 +59,8 @@ The list of plugins:
     — extract frontmatter from code blocks
 *   🟢 [`remark-code-import`](https://github.com/kevin940726/remark-code-import)
     — populate code blocks from files
+*   🟢 [`remark-code-snippets`](https://github.com/jknoxville/remark-code-snippets)
+    — import code blocks from files using start and end markers
 *   🟢 [`remark-code-screenshot`](https://github.com/Swizec/remark-code-screenshot)
     – turn code blocks into `carbon.now.sh` screenshots
 *   🟢 [`remark-codesandbox`](https://github.com/kevin940726/remark-codesandbox)
